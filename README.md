@@ -4,7 +4,7 @@ A Flutter Calculator application.
 
 ## Getting Started
 
-![ScreenShot](https://raw.githubusercontent.com/mubarak1361/flutter_calculator/master/device-2018-03-05-190403.png)
+![ScreenShot](https://raw.githubusercontent.com/mubarak1361/flutter_calculator/master/device-2018-03-05-190403.png){:height="50%" width="50%"}
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
